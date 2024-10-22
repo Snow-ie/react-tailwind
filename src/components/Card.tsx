@@ -30,7 +30,7 @@ const Card = () => {
           {products.map((product, index) => (
             <div
               key={index}
-              className="rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105"
+              className="rounded-lg shadow-3xl overflow-hidden transition-transform hover:scale-105"
             >
               <img
                 src={product.image}

@@ -9,7 +9,7 @@ const DownloadApp = () => {
         <div className="md:w-1/2 space-y-5">
           <h2
             className="text-3xl md:text-5xl 
-           md:leading-[150px] font-black"
+           md:leading-[150%] font-black"
           >
             DOWNLOAD APP & GET THE VOUCHER!
           </h2>
@@ -37,11 +37,7 @@ const DownloadApp = () => {
         </div>
 
         <div className="md:w-1/2 mt-10 md:mt-0 relative">
-          <img
-            src={Moblie}
-            alt="Mobile App Preview"
-            className="w-full transition duration-500 ease-in-out hover:opacity-75"
-          />
+          <img src={Moblie} alt="Mobile App Preview" className="w-full" />
         </div>
       </section>
     </div>

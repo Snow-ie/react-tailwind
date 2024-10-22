@@ -11,10 +11,12 @@ const Payday = () => {
         />
 
         <div className=" text-left space-y-6 py-10 pl-10  md-w-[666px] ">
-          <h2 className=" text-3xl md:text-9xl font-black">
+          <h2 className=" text-3xl md:text-[111px] md:leading-[137px] font-black">
             PAYDAY
             <br />
-            <span className="text-3xl md:text-9xl font-black">SALE NOW</span>
+            <span className="text-3xl md:text-[111px] font-black">
+              SALE NOW
+            </span>
           </h2>
 
           <p className=" md-w-[643px]  text-lg md:text-3xl font-medium text-[#231300]">
