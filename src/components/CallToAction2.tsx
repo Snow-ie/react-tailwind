@@ -1,4 +1,4 @@
-const CallToAction = () => {
+const CallToAction2 = () => {
   return (
     <div>
       <footer className="bg-[#E5C643] p-10 md:p-20 text-white">
@@ -27,4 +27,4 @@ const CallToAction = () => {
     </div>
   );
 };
-export default CallToAction;
+export default CallToAction2;

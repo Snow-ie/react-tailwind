@@ -7,7 +7,7 @@ import DownloadApp from "../components/DownloadApp";
 import Footer from "../components/Footer";
 
 import TrendingProducts from "../components/TrendingProducts";
-import CallToAction from "../components/CallToAction";
+import CallToAction2 from "../components/CallToAction2";
 
 function Home() {
   return (
@@ -19,7 +19,7 @@ function Home() {
       <Payday />
       <TrendingProducts />
       <DownloadApp />
-      <CallToAction />
+      <CallToAction2 />
       <Footer />
     </div>
   );
