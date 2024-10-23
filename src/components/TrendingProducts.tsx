@@ -1,6 +1,6 @@
 import Trend from "../assets/Trend.svg";
 import Under from "../assets/Under.svg";
-const Young = () => {
+const TrendingProducts = () => {
   const products = [
     {
       image: Trend,
@@ -58,4 +58,4 @@ const Young = () => {
     </section>
   );
 };
-export default Young;
+export default TrendingProducts;
